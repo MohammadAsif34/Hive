@@ -1,5 +1,5 @@
 import React, { useContext } from "react";
-import { AppContext } from "../../../../../appContext/AppContext";
+import { AppContext } from "../../../appContext/AppContext";
 
 const Navbar = () => {
   const { setState } = useContext(AppContext);

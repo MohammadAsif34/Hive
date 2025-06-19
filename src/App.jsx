@@ -5,7 +5,7 @@ import Story from "./components/post/Story";
 import Navbar from "./components/navbar/Navbar";
 import { posts } from "../rTemprory data/dummy_posts";
 import CreatePostCard from "./components/post/CreatePostCard";
-import { AppContext } from "../../../appContext/AppContext";
+import { AppContext } from "../appContext/AppContext";
 import Profile from "./components/profile/Profile";
 
 const App = () => {

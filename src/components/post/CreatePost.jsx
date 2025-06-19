@@ -1,6 +1,6 @@
 import React, { useContext, useState } from "react";
 import CreatePostCard from "./CreatePostCard";
-import { AppContext } from "../../../../../appContext/AppContext";
+import { AppContext } from "../../../appContext/AppContext";
 const img = "https://randomuser.me/api/portraits/men/3.jpg";
 const CreatePost = () => {
   const { postCreate, setPostCreate } = useContext(AppContext);

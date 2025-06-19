@@ -1,5 +1,5 @@
 import React, { useContext } from "react";
-import { AppContext } from "../../../../../appContext/AppContext";
+import { AppContext } from "../../../appContext/AppContext";
 const img =
   "https://media.vanityfair.com/photos/67ffd081e0c45bae3b27aff2/master/w_2560%2Cc_limit/summer-movies-mission-impossible.jpg";
 
